@@ -7,6 +7,6 @@ We looked at 3D Secure data behind Millions of payments transactions through Cre
 -Python - jupyter lab / notebook 
 
 # Libraries
-*Pandas
-*Scikit-learn
-*NumPy matplotlib
+-Pandas
+-Scikit-learn
+-NumPy matplotlib
