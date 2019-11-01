@@ -1,12 +1,12 @@
-# How much does 3D SECURE really impact online payments?
+## How much does 3D SECURE really impact online payments?
 
 We looked at 3D Secure data behind Millions of payments transactions through Credorax between 01 Jan – 01 Jul 2018.
 
-# Tools Documentation
+### Tools Documentation
 - Raw data - Credorax dataset
 - Python - jupyter lab / notebook 
 
-# Libraries
+### Libraries
 - Pandas
 - Scikit-learn
 - NumPy matplotlib
